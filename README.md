@@ -1,13 +1,21 @@
 ## Hi, I am Pau! Great to see you here! 👋
 ---
 
-Hi, I’m **Sajib Chandra Paul** — a Computer Science and Engineering professional focused on **System Engineering, Cloud Infrastructure, DevOps, and Cybersecurity**.
+Hi, I’m **Sajib Chandra Paul** — a Computer Science and Engineering professional focused on **SInfrastructure Engineer | Linux Systems | Networking | Cloud Infrastructure | DevOps | Security**.
 
-I enjoy working close to the infrastructure layer—managing Linux servers, configuring networks, deploying applications, automating repetitive tasks, monitoring systems, and implementing security practices. I’m particularly interested in understanding not only how technologies are used, but also how they work, how they fail, and how they can be designed to be more reliable, scalable, and secure.
+Sajib Chandra Paul is a Computer Science and Engineering (CSE) professional with a strong interest in Infrastructure Engineering, System Administration, Cloud Computing, and Infrastructure Security.
 
-I continuously develop my engineering skills through hands-on projects, real-world experimentation, troubleshooting, and technical research. My goal is to build and maintain systems that are reliable, scalable, automated, and secure.
+He enjoys working with the technologies that keep systems running behind the scenes, from managing Linux servers and configuring networks to deploying applications, troubleshooting issues, and improving system security.
 
-I’m always open to collaborating on interesting projects, exploring innovative and disruptive ideas, and learning from people who are passionate about technology.
+What interests him most is understanding how things actually work, why systems sometimes fail, and how they can be made more reliable, efficient, and secure. He believes that becoming a good engineer is not just about learning tools and commands, but also about developing the ability to solve real problems and understand the systems behind them.
+
+He continues to build his skills through hands-on labs, personal projects, technical experimentation, and continuous learning. Along the way, he is exploring Cloud Infrastructure, DevOps, Automation, and Site Reliability Engineering (SRE) to develop a broader understanding of modern infrastructure.
+
+His goal is to grow as an Infrastructure Engineer, working on real-world systems and contributing to infrastructure that is stable, secure, scalable, and easier to manage.
+
+Beyond technology, he enjoys exchanging ideas, learning from others, collaborating on interesting projects, and exploring new approaches to solving engineering challenges.
+
+Always open to learning, sharing knowledge, collaborating on projects, and connecting with people who are passionate about technology.
 
 Want to know more about me or work together? Feel free to explore my work and connect with me here.
 
